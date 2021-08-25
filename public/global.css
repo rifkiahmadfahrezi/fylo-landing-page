@@ -1,0 +1,27 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Raleway', sans-serif, system-ui;
+}
+
+a{
+	text-decoration: none;
+}
+
+body{
+	background-color: var(--darkBlue2);
+	overflow-x: hidden;
+}
+
+:root{
+	font-size: 14px;
+	/*Primary colors*/
+	--darkBlue1: hsl(218, 28%, 13%) ;  /* main background */
+	--darkBlue2: hsl(217, 28%, 15%) ;  /* intro and email sign up background */
+	--darkBlue3: hsl(217, 28%, 9%) ;  /* Footer bg */
+	--darkBlue4: hsl(219, 30%, 18%) ;  /* Testimonials bg */
+	/*Accent colors*/
+	--cyan:  hsl(176, 68%, 64%); /* inside call-to-action gradient  */
+	--blue:  hsl(198, 60%, 50%); /* inside call-to-action gradient */
+	--red:  hsl(0, 100%, 63%); /* Error */
+}
