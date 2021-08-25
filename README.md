@@ -1,24 +1,25 @@
-#Simple landing page webiste build with svelte js
+# Simple landing page webiste build with svelte js
+
 ![landing page design](assets/design/desktop-preview.jpg)
 
 
 
-##Instalation
+## Instalation
 
 ---
 
 ```bash
-	git clone https://github.com/rifkiahmadfahrezi/fylo-landing-page.git	
+git clone https://github.com/rifkiahmadfahrezi/fylo-landing-page.git	
 ```
 
 ```bash
-	cd fylo-landing-page-master
+cd fylo-landing-page-master
 ```
 
 ```bash
-	npm install
+npm install
 ```
 
 ```bash
-	npm run dev
+npm run dev
 ```
