@@ -1,4 +1,4 @@
-Simple landing page webiste build with svelte js
+#Simple landing page webiste build with svelte js
 ![landing page design](assets/design/desktop-preview.jpg)
 
 
